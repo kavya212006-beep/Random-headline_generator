@@ -72,7 +72,7 @@ def generate_headline():
     "near the Amar Singh Gate", 
     "near the Delhi Gate moat"
   ]
- return f"{random.choice(subjects)}{random.choice(actions)}{random.choice(places_elements)}"
+ return f" BREAKING NEWS: {random.choice(subjects)} {random.choice(actions)} {random.choice(places_elements)}"
 
 
 
