@@ -8,7 +8,7 @@ def generate_headline():
     # Artists, Writers & Musicians
     "Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo", 
     "William Shakespeare", "Jane Austen", "Mark Twain", "Virginia Woolf", 
-    "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Frida Kahlo", "Claude Monet",
+    "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Frida Kahlo", "Claude Monet","ShahRukh Khan",
     
     # Historical & Political Leaders
     "Mahatma Gandhi", "Abraham Lincoln", "Nelson Mandela", "Winston Churchill", 

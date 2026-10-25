@@ -3,12 +3,17 @@ from function import generate_headline
 
 
 while True:
-    options=int(input("ENTER 1 TO CONTINUE AND 2 TO EXIT:"))
+    try:
+     options=int(input("ENTER 1 TO CONTINUE AND 2 TO EXIT:"))
 
-    if options==1:
+     if options==1:
         print(generate_headline())
 
-    else:
+     elif options==2:
         break
+     else:
+        print('INVALID OPTION')
+    except ValueError:
+       print("enter valid inputs")
 
 
